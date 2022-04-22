@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By HAD STORE.
+   * Contact Me on wa.me/6285749433476
+   * Subscribe https://www.youtube.com/channel/UCuezNL34NQm_AcGce5lHBWg/videos?view=0&sort=p
 */
 
 require('./config')
